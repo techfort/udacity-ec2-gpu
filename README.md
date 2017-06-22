@@ -4,6 +4,7 @@ This is a HCL (HashiCorp Configuration Language) project that allows you to crea
 instance on AWS for the purpose of training Deep Learning networks and running jupyter handbooks.
 This will save you creating EC2 instance, security groups etc. manually.
 
+![screenshot](https://github.com/techfort/udacity-ec2-gpu/blob/master/screenshot.png)
 
 ## Usage
 
